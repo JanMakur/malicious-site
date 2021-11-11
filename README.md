@@ -1,5 +1,5 @@
 # malicious-site
-a site to crash someone's pc/phone.
+a site to crash someone's pc/phone! Quick Try at https://titan3301.github.io/malicious-site/static. *HIT IT UP TO TRY!*
 ## Works on
 |         | CHROME | FIREFOX | OPERA | IE/EDGE |
 |---------|--------|---------|-------|---------|
